@@ -1,0 +1,6 @@
+"McDonald's"
+"Popeyes"
+"Taco Bell"
+"Chick-fil-a"
+"Cane's"
+"Zaxby's"
